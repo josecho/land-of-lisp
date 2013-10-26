@@ -7,3 +7,5 @@ Use the `(load "some-file.lisp")` function in a repl (I'm using clisp) since tha
 
 1. `guess-my-number.lisp`
 2. `pudding-eater.lisp`
+3. `wizards-adventure.lisp` (Chap. 5)
+4. `wizards-adventure.lisp` (Chap. 6)
