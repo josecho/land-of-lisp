@@ -59,7 +59,7 @@
               (graph->dot nodes edges))))
 
 ;; (load "wizards-adventure.lisp")
-;; (load "graphviz.lisp")
+;; (load "graph-util.lisp")
 ;; (graph->png "wizard.dot" *nodes* *edges*)
 
 (defun uedges->dot (edges)
