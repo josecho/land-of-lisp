@@ -1,0 +1,4 @@
+# From graph-util.lisp stuff.
+# Just run the commands yourself, lamer.
+*.dot
+*.dot.png
