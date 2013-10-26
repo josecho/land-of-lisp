@@ -9,3 +9,6 @@
 
 (pudding-eater 'johnny)
 (print *arch-enemy*)
+
+(pudding-eater 'george-clooney)
+(print *arch-enemy*)
