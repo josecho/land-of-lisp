@@ -12,3 +12,4 @@ Bummer for you if you don't use CLISP.
 4. `wizards-adventure.lisp` (Chap. 6)
 5. `graph-util.lisp` (Chap. 7)
 6. `grand-theft-wumpus.lisp` (Chap 8.)
+7. `grand-theft-wumpus.lisp` (Chap 9.)
