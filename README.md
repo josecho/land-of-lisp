@@ -13,3 +13,4 @@ Bummer for you if you don't use CLISP.
 5. `graph-util.lisp` (Chap. 7)
 6. `grand-theft-wumpus.lisp` (Chap 8.)
 7. `grand-theft-wumpus.lisp` (Chap 9.)
+8. `orc-battle.lisp` (Chap. 9)
